@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lightonoffproject/static/css/main.221cbcbe.chunk.css",
+    "main.js": "/lightonoffproject/static/js/main.f90b764e.chunk.js",
+    "main.js.map": "/lightonoffproject/static/js/main.f90b764e.chunk.js.map",
+    "runtime-main.js": "/lightonoffproject/static/js/runtime-main.8a6f4b20.js",
+    "runtime-main.js.map": "/lightonoffproject/static/js/runtime-main.8a6f4b20.js.map",
+    "static/js/2.250b945e.chunk.js": "/lightonoffproject/static/js/2.250b945e.chunk.js",
+    "static/js/2.250b945e.chunk.js.map": "/lightonoffproject/static/js/2.250b945e.chunk.js.map",
+    "static/js/3.ba9720c8.chunk.js": "/lightonoffproject/static/js/3.ba9720c8.chunk.js",
+    "static/js/3.ba9720c8.chunk.js.map": "/lightonoffproject/static/js/3.ba9720c8.chunk.js.map",
+    "index.html": "/lightonoffproject/index.html",
+    "static/css/main.221cbcbe.chunk.css.map": "/lightonoffproject/static/css/main.221cbcbe.chunk.css.map",
+    "static/js/2.250b945e.chunk.js.LICENSE.txt": "/lightonoffproject/static/js/2.250b945e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/lightonoffproject/static/media/bg-sm.87ff1a8b.jpg",
+    "static/media/offbulb.3beaaeed.png": "/lightonoffproject/static/media/offbulb.3beaaeed.png",
+    "static/media/onbulb.5c273668.png": "/lightonoffproject/static/media/onbulb.5c273668.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6f4b20.js",
+    "static/js/2.250b945e.chunk.js",
+    "static/css/main.221cbcbe.chunk.css",
+    "static/js/main.f90b764e.chunk.js"
+  ]
+}
